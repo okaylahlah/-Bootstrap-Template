@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#e83e8c"/><stop offset="1" stop-color="#6f42c1"/></linearGradient></defs>
+<rect width="420" height="120" rx="26" fill="#151527"/>
+<circle cx="62" cy="60" r="34" fill="url(#g)"/>
+<path d="M59 36v43c0 7-6 12-14 12s-14-4-14-10 6-10 14-10c4 0 8 1 10 3V46l29-7v17" fill="#fff"/>
+<text x="108" y="74" font-family="Arial" font-size="42" font-weight="700" fill="#fff">MusicMood</text>
+</svg>
